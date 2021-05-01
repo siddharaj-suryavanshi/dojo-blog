@@ -7,7 +7,7 @@ const Home = () => {
     {
       title: "Web dev top tips",
       body: "lorem ipsum...",
-      author: "mario",
+      author: "sid",
       id: 3,
     },
   ]);
